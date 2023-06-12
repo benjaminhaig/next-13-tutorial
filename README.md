@@ -1,6 +1,7 @@
-Next.js 13 Update | Episode 0 | Getting Started
+Next.js 13 Update | Episode 1 | App Directory Basics
 
 Summary:
-- Discussed basic changes between version 12 and 13 at a high level
-- Made sure our version of Node.js is up to date (At least 16.8)
-- Created a Next 13 project
+- How page.tsx file replaces index.tsx file in next 13
+- How root vs nested layout files work
+- How to create routes (/blog in this example)
+- How loading.tsx file operates when page.tsx is loading dynamic content
