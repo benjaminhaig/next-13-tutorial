@@ -1,5 +1,6 @@
 Next.js 13 Update | Episode 2 | Data Fetching
 
 Summary:
-- How to use the fetch API
-- How to fetch from an ORM
+- How dynamic routes work in Next 13
+- How to statically generate dynamic routes at build time (generateStaticParams)
+- How to generate our metadata object for dynamic routes (generateMetadata) 
