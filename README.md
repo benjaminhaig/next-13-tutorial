@@ -1,6 +1,6 @@
-Next.js 13 Update | Episode 2 | Data Fetching
+Next.js 13 Update | Episode 4 | Server & Client Components
 
 Summary:
-- How dynamic routes work in Next 13
-- How to statically generate dynamic routes at build time (generateStaticParams)
-- How to generate our metadata object for dynamic routes (generateMetadata) 
+- Differences of client and server components
+- Example of how the JS is run (client and server console logs)
+- The 'use-client' directive
