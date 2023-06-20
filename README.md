@@ -1,4 +1,4 @@
-Next.js 13 Update | Episode 2 | Data Fetching
+Next.js 13 Update | Episode 3 | generateStaticParams & generateMetadata
 
 Summary:
 - How dynamic routes work in Next 13
